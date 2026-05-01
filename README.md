@@ -1,5 +1,4 @@
 # Alumni-referral-network
-# Alumni Referral Network
 
 Alumni Referral Network is a full-stack web application that connects students with alumni for mentorship, referral support, and career networking. The platform includes secure authentication, role-based dashboards, direct messaging, referral request tracking, and profile management.
 
